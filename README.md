@@ -29,3 +29,6 @@
 **Access Control:** Managed IAM roles and SSH key pairs to control access and maintain security best practices.
 
 **Web Hosting in a Private Subnet:**  Acquired experience hosting a website in a private subnet, ensuring secure and isolated access.
+
+![project-Architecture](https://github.com/user-attachments/assets/2d5c41db-4084-43f6-afd0-6bd6c9ac117d)
+
