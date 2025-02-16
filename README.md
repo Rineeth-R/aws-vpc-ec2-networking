@@ -1,3 +1,5 @@
+![project-Architecture](https://github.com/user-attachments/assets/c1f5cdf0-1a39-4aae-858a-e60a4b5a8c7a)
+
 **Project Title: Secure VPC Setup with EC2 Instances on AWS**
 
 **Project Description:**
@@ -30,5 +32,4 @@
 
 **Web Hosting in a Private Subnet:**  Acquired experience hosting a website in a private subnet, ensuring secure and isolated access.
 
-![project-Architecture](https://github.com/user-attachments/assets/2d5c41db-4084-43f6-afd0-6bd6c9ac117d)
 
